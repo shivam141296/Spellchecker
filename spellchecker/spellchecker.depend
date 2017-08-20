@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1493663056 source:c:\users\user\desktop\xyzzzzzzzzzzzz\spellchecker\mainfile.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Trie.h"
+
+1493660514 c:\users\user\desktop\xyzzzzzzzzzzzz\spellchecker\trie.h
+	"Node.h"
+	<string>
+
+1493660514 c:\users\user\desktop\xyzzzzzzzzzzzz\spellchecker\node.h
+	<memory>
+	<unordered_map>
+
+1493664528 source:c:\users\user\desktop\xyzzzzzzzzzzzz\spellchecker\trie.cpp
+	"Trie.h"
+	<iostream>
+	<string.h>
+
